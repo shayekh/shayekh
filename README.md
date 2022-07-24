@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shayekh
-- 👀 I’m interested in software engineering|reseach|project management
+- 👀 I’m interested in software engineering|research|project management
 - 🌱 I’m currently learning CS & IT
 - 💞️ I’m looking to collaborate on big ideas
 - 📫 How to reach me shayekh.iit.ju.44@gmail.com
